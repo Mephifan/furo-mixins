@@ -1,5 +1,5 @@
 {
-  "name": "@furo/mixins",
+  "name": "@stuttgarter/furo-mixins",
   "main": "shared-state.js",
   "version": "0.0.1",
   "dependencies": {
