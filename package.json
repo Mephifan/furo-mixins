@@ -1,7 +1,7 @@
 {
   "name": "@stuttgarter/furo-mixins",
   "main": "shared-state.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@polymer/polymer": "^3.0.0",
     "@furo/fbp": "^4.0.5"
